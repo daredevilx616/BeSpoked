@@ -6,9 +6,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class main {
-	final static String url = "jdbc:postgresql://localhost:5432/bespoked_bikes";
-	final static String user = "abdul";
-	final static String password = "SheHulkPoty";
+	final static String url = "jdbc:postgresql://XXX/bespoked_bikes";
+	final static String user = "XXX";
+	final static String password = "XXX";
 
 
 	public static void main(String[] args) {
