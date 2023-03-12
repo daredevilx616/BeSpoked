@@ -24,8 +24,8 @@ The Sales Tracking Application includes the following features:
 ## Technologies Used
 The Sales Tracking Application was built using the following technologies:
 
-Java 8
-JavaFX
-PostgreSQL
-Maven
+- Java 8
+- JavaFX
+- PostgreSQL
+
 
