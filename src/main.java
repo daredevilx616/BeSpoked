@@ -6,6 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class main {
+	//add your own credentials to the PostgreSQL server
 	final static String url = "jdbc:postgresql://XXX/bespoked_bikes";
 	final static String user = "XXX";
 	final static String password = "XXX";
