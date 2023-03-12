@@ -1,6 +1,6 @@
 # BeSpoked
 
-Sales Tracking App
+
 Sales Tracking App is a Java desktop application that allows salespeople to track their sales and commissions. It uses a PostgreSQL database to store information about products, customers, salespeople, and sales.
 
 
